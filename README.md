@@ -97,8 +97,6 @@ install.packages(c("tidyverse", "survey", "haven", "writexl", "jtools", "broom",
 gallstone-analysis/
 │── data_preprocessing.R              # Data cleaning and preparation
 │── exploratory_analysis.R            # Descriptive statistics and visualizations
-│── logistic_regression_analysis.R    # Model fitting and results
-│── nhanes_processed.csv              # Processed NHANES dataset
 │── README.md                         # Project documentation
 ```
 
